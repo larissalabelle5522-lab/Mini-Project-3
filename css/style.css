@@ -1,0 +1,51 @@
+header {
+    background-color:;
+    color: black;
+    padding:20px
+}
+
+header h1 {
+    font-size: 2em;
+}
+
+body {
+    font-family: Garmond, serif;
+    margin: 0;
+    padding: 0;
+    background-color: ;
+}
+
+header, footer {
+    background-color:;
+    color:black;
+    clear: both;
+    padding:20px
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display:inline;
+    margin: 0;
+}
+
+main {
+    width: %70;
+    float: center;
+    padding: 20px;
+}
+
+aside {
+    width: 25%;
+    float: center;
+    padding: 20px;
+    background-color:;
+}
+
+footer {
+    clear:both
+}
+
