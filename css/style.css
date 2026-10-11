@@ -1,5 +1,5 @@
 header {
-    background-color:;
+    background-color:#C5CCBB;
     color: black;
     padding:20px
 }
@@ -12,11 +12,11 @@ body {
     font-family: Garmond, serif;
     margin: 0;
     padding: 0;
-    background-color: ;
+    background-color:#C5CCBB ;
 }
 
 header, footer {
-    background-color:;
+    background-color:#C5CCBB;
     color:black;
     clear: both;
     padding:20px
@@ -42,7 +42,7 @@ aside {
     width: 25%;
     float: center;
     padding: 20px;
-    background-color:;
+    background-color:#C5CCBB;
 }
 
 footer {
