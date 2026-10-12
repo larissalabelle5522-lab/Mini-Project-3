@@ -1,5 +1,6 @@
 header {
     background-color:#C5CCBB;
+    font-family: 'Montserrat', sans-serif;
     color: black;
     padding:20px
 }
@@ -10,7 +11,7 @@ header h1 {
 }
 
 body {
-    font-family: Garmond, serif;
+    font-family: 'Montserrat', sans-serif;
     margin: 0;
     padding: 0;
     background-color:#C5CCBB ;
@@ -54,6 +55,32 @@ footer {
 .logo {
     width:150px;
     height:auto;
-    float:right
+    display:inline
 }
 
+.site-header {
+    align-items:center;
+    padding: 15px 30px;
+    width:100%;
+    box-sizing: border-box
+}
+
+ /* Style link */
+.styled-link {
+    display: inline-block;
+    background-color: #C5CCBB;
+    color: black;
+    padding: 12px 24px;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+    transition: all 0.3s ease;
+}
+
+/* hover effect */
+.styled-link:hover {
+    background-color: #E8A87C;
+    color: #2D264B;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+}
